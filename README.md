@@ -1,2 +1,2 @@
 # DevopsBasics
-Creating and Managing Devops Deployment using CICID and AWS ,Tomcat and many devops tool 
+Creating and Managing Devops Deployment using CI/CD jenkins  and AWS ,Tomcat and many devops tool 
